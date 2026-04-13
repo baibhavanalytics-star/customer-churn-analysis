@@ -41,6 +41,6 @@ Customer churn leads to revenue loss. The goal is to predict which customers are
 
 ## Files in Repository
 
-* churn_analysis.ipynb
+* churn_analysis.ipynb.ipynb
 * dataset.csv
-* churn_plots.png
+* churn_plots.png & churn_plots(2).png
